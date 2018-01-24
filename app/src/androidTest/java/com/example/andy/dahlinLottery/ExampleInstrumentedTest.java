@@ -1,4 +1,4 @@
-package com.example.andy.widgetting;
+package com.example.andy.dahlinLottery;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.andy.widgetting", appContext.getPackageName());
+        assertEquals("com.example.andy.dahlinLottery", appContext.getPackageName());
     }
 }

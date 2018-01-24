@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Widgetting</string>
+    <string name="app_name">NHL Lottery</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="configure">Configure</string>
     <string name="add_widget">Add widget</string>
+    <string name="nhl_lottery">NHL Lottery</string>
+    <string name="nhl_can">NHL Canadian Teams</string>
+    <string name="test">test</string>
 </resources>

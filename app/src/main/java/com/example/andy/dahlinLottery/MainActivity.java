@@ -1,4 +1,4 @@
-package com.example.andy.widgetting;
+package com.example.andy.dahlinLottery;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

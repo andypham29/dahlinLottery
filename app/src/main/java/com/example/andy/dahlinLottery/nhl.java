@@ -1,4 +1,4 @@
-package com.example.andy.widgetting;
+package com.example.andy.dahlinLottery;
 
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;

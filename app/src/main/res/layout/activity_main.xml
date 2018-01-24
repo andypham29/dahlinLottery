@@ -5,7 +5,7 @@
     android:layout_width="300dp"
     android:layout_height="300dp"
     android:background="#FFFFFF"
-    tools:context="com.example.andy.widgetting.MainActivity">
+    tools:context="com.example.andy.dahlinLottery.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
